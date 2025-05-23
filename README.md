@@ -1,16 +1,15 @@
-# SentimentAnalysisAI
-# Sentiment Analysis AI Project
+# SentimentAnalysisAI  
 
-A deep learning model to classify text sentiment (Positive/Negative) using TensorFlow/Keras.
+## Sentiment Analysis AI Project  
 
-## Features
-- Text preprocessing with Tokenization
-- Neural Network Model (Embedding + Dense Layers)
-- Training and Prediction Functions
+A deep learning model to classify text sentiment (Positive/Negative) using TensorFlow/Keras.  
 
-## Installation
-```bash
-git clone https://github.com/Abdullah22200/SentimentAnalysisAI.git
-pip install -r requirements.txt
-from model import predict_sentiment
-print(predict_sentiment("I love AI!"))  # Output: Positive
+### Features  
+- Text preprocessing with Tokenization  
+- Neural Network Model (Embedding + Dense Layers)  
+- Training and Prediction Functions  
+
+### Installation  
+```bash  
+git clone https://github.com/Abdullah22200/SentimentAnalysisAI.git  
+pip install -r requirements.txt  
