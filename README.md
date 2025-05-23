@@ -12,3 +12,5 @@ A deep learning model to classify text sentiment (Positive/Negative) using Tenso
 ```bash
 git clone https://github.com/Abdullah22200/SentimentAnalysisAI.git
 pip install -r requirements.txt
+from model import predict_sentiment
+print(predict_sentiment("I love AI!"))  # Output: Positive
